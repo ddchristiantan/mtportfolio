@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Martin Tan</title>
+    <link>https://ddchristiantan.github.io/mtportfolio/projects/</link>
+    <description>Recent content in Projects on Martin Tan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2022 00:57:23 +0800</lastBuildDate><atom:link href="https://ddchristiantan.github.io/mtportfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://ddchristiantan.github.io/mtportfolio/projects/projects/</link>
+      <pubDate>Fri, 26 Aug 2022 00:57:23 +0800</pubDate>
+      
+      <guid>https://ddchristiantan.github.io/mtportfolio/projects/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

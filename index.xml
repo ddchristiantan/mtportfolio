@@ -5,6 +5,34 @@
     <link>https://ddchristiantan.github.io/mtportfolio/</link>
     <description>Recent content on Martin Tan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ddchristiantan.github.io/mtportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Aug 2022 00:57:23 +0800</lastBuildDate><atom:link href="https://ddchristiantan.github.io/mtportfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ddchristiantan.github.io/mtportfolio/about/</link>
+      <pubDate>Fri, 26 Aug 2022 00:57:47 +0800</pubDate>
+      
+      <guid>https://ddchristiantan.github.io/mtportfolio/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ddchristiantan.github.io/mtportfolio/projects/projects/</link>
+      <pubDate>Fri, 26 Aug 2022 00:57:23 +0800</pubDate>
+      
+      <guid>https://ddchristiantan.github.io/mtportfolio/projects/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Name</title>
+      <link>https://ddchristiantan.github.io/mtportfolio/blogs/blogs/</link>
+      <pubDate>Fri, 26 Aug 2022 00:54:42 +0800</pubDate>
+      
+      <guid>https://ddchristiantan.github.io/mtportfolio/blogs/blogs/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
