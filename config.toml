@@ -1,5 +1,138 @@
 baseURL = 'https://ddchristiantan.github.io/mtportfolio'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-
+paginate = 5
 theme = 'papermod'
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "ChaninNantasenamat"
+description = "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
+keywords = [ "Blog", "Portfolio", "Data Science" ]
+author = "Chanin Nantasenamat"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = false
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.label]
+  text = "Chanin Nantasenamat"
+  icon = "images/coding.png"
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = true
+  title = "Welcome! 👋"
+  subtitle = "This is the website of **Chanin Nantasenamat, Ph.D.** and I create educational content on data science and bioinformatics. Some of you may know me as the **Data Professor**."
+  imageUrl = "images/dp.png"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Data Professor"
+
+    [[params.profileMode.buttons]]
+    name = "Blogs"
+    url = "blogs"
+
+    [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "projects"
+
+  [params.homeInfoParams]
+  Title = "Welcome! 👋"
+  Content = "This is the website of **Chanin Nantasenamat, Ph.D.** and I create educational content on data science and bioinformatics. Some of you may know me as the **Data Professor**."
+
+  [[params.socialIcons]]
+  name = "youtube"
+  url = "http://youtube.com/dataprofessor"
+
+  [[params.socialIcons]]
+  name = "medium"
+  url = "https://medium.com/@data-professor"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/thedataprof"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/chanin-nantasenamat/"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/dataprofessor"
+
+  [[params.socialIcons]]
+  name = "buymeacoffee"
+  url = "https://www.buymeacoffee.com/dataprofessor"
+
+[params.analytics.google]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.bing]
+SiteVerificationTag = "XYZabc"
+
+[params.analytics.yandex]
+SiteVerificationTag = "XYZabc"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = false
+
+  [params.editPost]
+  URL = ""
+  Text = ""
+  appendFilePath = true
+
+  [params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1_000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = [ "title", "permalink", "summary", "content" ]
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 4
+
+[[menu.main]]
+identifier = "blog"
+name = "Blogs"
+url = "/blogs/"
+weight = 1
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 2
+
+[[menu.main]]
+identifier = "infographics"
+name = "Infographics"
+url = "/infographics/"
+weight = 3
