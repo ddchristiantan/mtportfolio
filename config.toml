@@ -16,7 +16,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "MartinTan"
-description = "def"
+description = "A data scientist who wants to help people make better, more informed decisions."
 keywords = [ "Data Analyst", "Portfolio", "Data Science" ]
 author = "Martin Tan"
 DateFormat = "January 2, 2006"
@@ -42,11 +42,11 @@ tocopen = false
 
   [params.profileMode]
   enabled = true
-  title = "Welcome! 👋"
-  subtitle = " abc-def"
-  imageUrl = "/images/dp.png"
-  imageWidth = 120
-  imageHeight = 120
+  title = "Kamusta! 👋"
+  subtitle = " I want to help people make better, more informed decisions."
+  imageUrl = "dp.png"
+  imageWidth = 150
+  imageHeight = 150
   imageTitle = "dp"
 
     [[params.profileMode.buttons]]
@@ -58,20 +58,17 @@ tocopen = false
     url = "projects"
 
   [params.homeInfoParams]
-  Title = "Welcome! 👋"
-  Content = "xyz"
+  Title = "Kamusta! 👋"
+  Content = "A data scientist who wants to help people make better, more informed decisions."
 
   [[params.socialIcons]]
   name = "linkedin"
-  url = "https://www.linkedin.com/in/chanin-nantasenamat/"
+  url = "https://www.linkedin.com/in/martin-tan-10514471/"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/dataprofessor"
+  url = "https://github.com/ddchristiantan"
 
-  [[params.socialIcons]]
-  name = "buymeacoffee"
-  url = "https://www.buymeacoffee.com/dataprofessor"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
