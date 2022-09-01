@@ -43,7 +43,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Kamusta! 👋"
-  subtitle = " I want to help people make better, more informed decisions."
+  subtitle = "I'm Martin. I want to help people make better, more informed decisions."
   imageUrl = "images/dp.png"
   imageWidth = 150
   imageHeight = 150
@@ -59,7 +59,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Kamusta! 👋"
-  Content = "A data scientist who wants to help people make better, more informed decisions."
+  Content = "I'm Martin. A data scientist who wants to help people make better, more informed decisions."
 
   [[params.socialIcons]]
   name = "linkedin"
