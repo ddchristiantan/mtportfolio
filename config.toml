@@ -16,7 +16,7 @@ minifyOutput = true
 [params]
 env = "production"
 title = "MartinTan"
-description = "A data scientist who wants to help people make better, more informed decisions."
+description = "A data scientist who enjoys helping people make better, more informed decisions."
 keywords = [ "Data Analyst", "Portfolio", "Data Science" ]
 author = "Martin Tan"
 DateFormat = "January 2, 2006"
@@ -43,7 +43,7 @@ tocopen = false
   [params.profileMode]
   enabled = true
   title = "Kamusta! 👋"
-  subtitle = "I'm Martin. I want to help people make better, more informed decisions."
+  subtitle = "I'm Martin. I enjoy helping people make better, more informed decisions."
   imageUrl = "images/dp.png"
   imageWidth = 150
   imageHeight = 150
@@ -59,7 +59,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Kamusta! 👋"
-  Content = "I'm Martin. A data scientist who wants to help people make better, more informed decisions."
+  Content = "I'm Martin. I'm a data scientist. I enjoy helping people make better, more informed decisions."
 
   [[params.socialIcons]]
   name = "linkedin"
