@@ -5,12 +5,10 @@ draft: false
 ShowRssButtonInSectionTermList: false
 ---
 
-Hey there! My name is Martin, and I'm a data scientist.
+Hey there! I'm Martin!
 
-I love helping people make better decisions by teaching them how to harness the power of data and the scientific method. It's my goal to show people how to make good data-driven decisions when they have to make decisions that can have big consequences.
+As a data scientist with a strong background in engineering and academia, I am eager to bring my expertise and passion to new opportunities. My deep understanding of material science and engineering, coupled with my experience in advanced computational and statistical methods, has given me a solid foundation in data analysis. My focus has been on utilizing data to drive insights and make informed decisions. I am always looking for ways to improve my skills and stay current with the latest developments in the field, and my willingness to continuously learn and grow will be an asset to any team.
 
-I like to automate routine tasks so that I can spend more time on activities that important to me—like enjoying time with my family and studying. I'm also an avid fitness enthusiast who loves lifting weights, walking, and eating clean. I have fun linking it with data science because it allows me to combine my  passion in fitness and programming to track and assess my strength, performance and diet.
+In addition to my research experience, I am proficient in a wide range of tools and technologies, including Python, R, SQL, Excel, Power BI, and Tableau. I have received formal training in quantitative and computational methods from esteemed institutions such as Mapua University (PH) and Chung Yuan Christian University (TW), and have a proven ability to apply my skills to real-world problems.
 
-I enjoy learning new things and I try to find ways to simplify them and apply them to my work. I am interested in machine learning, data analysis, image analysis, and natural language processing.
-
-If you're looking for someone who can help you with your business strategy or advise you on what your business should do next, contact me, browse my projects and let's see how we can work together.
+My unique combination of technical expertise, research experience, and creative problem-solving skills make me a valuable asset to any team, and I am confident that my passion and drive will enable me to make a meaningful contribution to the success of any organization.
