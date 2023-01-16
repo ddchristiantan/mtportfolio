@@ -98,16 +98,10 @@ SiteVerificationTag = "XYZabc"
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 3
-
-[[menu.main]]
-identifier = "blog"
-name = "Blogs"
-url = "/blogs/"
-weight = 1
+weight = 2
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
-weight = 2
+weight = 1
